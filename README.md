@@ -5,4 +5,6 @@ Feel free to contact me.
 
 To get in touch, please reach out via: [Email](divyanshijain174@gmail.com) [LinkedIn](https://www.linkedin.com/in/divyanshijain/) [Twitter](https://twitter.com/DivyanshiJain_) 
 
-[![LinkedIn](https://user-images.githubusercontent.com/54709490/139677220-7b110002-f9d1-4070-94db-7df8b9ab98e1.png)](https://www.linkedin.com/in/divyanshijain/)
+[![LinkedIn](https://user-images.githubusercontent.com/54709490/139678044-c1462905-f11b-4e0e-a3a0-2d277bcfc0b5.jpg)](https://www.linkedin.com/in/divyanshijain/)
+[![Email](https://user-images.githubusercontent.com/54709490/139678128-f84147f7-de26-4992-808c-2f49b1c027aa.png)](divyanshijain174@gmail.com)
+[![Twitter](https://user-images.githubusercontent.com/54709490/139678195-67971669-4290-44c5-99df-7d60626c600a.png)](https://twitter.com/DivyanshiJain_)
