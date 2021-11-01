@@ -8,9 +8,9 @@ Feel free to contact me.
 To get in touch, please reach out via: [Email](divyanshijain174@gmail.com) [LinkedIn](https://www.linkedin.com/in/divyanshijain/) [Twitter](https://twitter.com/DivyanshiJain_) 
 
 
-<p align="center">
-  [![LinkedIn](https://user-images.githubusercontent.com/54709490/139678044-c1462905-f11b-4e0e-a3a0-2d277bcfc0b5.jpg)](https://www.linkedin.com/in/divyanshijain/)  
-</p>
+
+  [![LinkedIn](<p align="center"> https://user-images.githubusercontent.com/54709490/139678044-c1462905-f11b-4e0e-a3a0-2d277bcfc0b5.jpg </p>)](https://www.linkedin.com/in/divyanshijain/)  
+
 
 [![Email](https://user-images.githubusercontent.com/54709490/139678917-e6186080-ce28-4ae8-95ef-ae8f072b67dd.jpg)](divyanshijain174@gmail.com)
 
