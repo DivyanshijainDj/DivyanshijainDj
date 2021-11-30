@@ -9,7 +9,7 @@ I am a final year cpmputer science candidate at [College of technology and Engin
 - machine learning projects,
 - Database management 
 
-## Feel free to contact me. 
+## Connect with me:
 
 > To get in touch, please reach out via:  [Email](divyanshijain174@gmail.com) [LinkedIn](https://www.linkedin.com/in/divyanshijain/) [Twitter](https://twitter.com/DivyanshiJain_) 
 
