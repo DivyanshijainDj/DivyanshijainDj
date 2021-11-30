@@ -11,5 +11,5 @@ I am a final year cpmputer science candidate at [College of technology and Engin
 
 ## Connect with me:
 
-> To get in touch, please reach out via:  [Email](divyanshijain174@gmail.com) [LinkedIn](https://www.linkedin.com/in/divyanshijain/) [Twitter](https://twitter.com/DivyanshiJain_) [Portfolio](https://divyanshijain174.wixsite.com/portfolio)
+> To get in touch, please reach out via:  [Email](divyanshijain174@gmail.com) [LinkedIn](https://www.linkedin.com/in/divyanshijain/) [Twitter](https://twitter.com/DivyanshiJain_) 
  
