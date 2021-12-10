@@ -1,7 +1,7 @@
 ## **HELLO WORLD!**
 Hi I'm **Divyanshi jain** :smiley:
 
-I am a final year cpmputer science candidate at [College of technology and Engineering](https://www.ctae.ac.in/).A problem solver, tech enthusiast & Coder exploring different fields of Computer Science.Happy to meet new people and always excited for challenging opportunities!!
+I am a final year computer science candidate at [College of technology and Engineering](https://www.ctae.ac.in/).A problem solver, tech enthusiast & Coder exploring different fields of Computer Science.Happy to meet new people and always excited for challenging opportunities!!
 
 **I am open to**:
 
