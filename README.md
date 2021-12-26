@@ -9,6 +9,8 @@ I am a final year computer science candidate at [College of technology and Engin
 - machine learning projects,
 - Database management 
 
+![Divyanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyanshijainDj&theme=dark&show_icons=true)
+
 ## Connect with me:
 
 > To get in touch, please reach out via:  [Email](divyanshijain174@gmail.com) [LinkedIn](https://www.linkedin.com/in/divyanshijain/) [Twitter](https://twitter.com/DivyanshiJain_) 
