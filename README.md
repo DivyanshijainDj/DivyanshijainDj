@@ -12,7 +12,7 @@ I am a final year computer science candidate at [College of technology and Engin
 
 **Language and Tools**:
 
-<img src= "https://user-images.githubusercontent.com/54709490/147850442-dab7350d-8af3-48ac-b89b-642903f3d90f.png" width="40" height="40" /> <img src= "https://user-images.githubusercontent.com/54709490/147850469-72e17272-f7ff-4cdf-b68a-4301e54f64f3.png" width="40" height="40" /> <img src= "https://user-images.githubusercontent.com/54709490/147850591-6eeecede-9203-4e2e-ab05-217de9b36044.png" width="30" height="30" /> <img src= "https://user-images.githubusercontent.com/54709490/147850593-fa7cf1a3-1777-4135-854e-7caf3c59f886.png" width="45" height="45" /> <img src= "https://user-images.githubusercontent.com/54709490/147850600-84dcdce8-4de4-47ba-9245-b68e4738d8fd.png" width="60" height="60" /> 
+<img src= "https://user-images.githubusercontent.com/54709490/147850442-dab7350d-8af3-48ac-b89b-642903f3d90f.png" width="40" height="40" /> <img src= "https://user-images.githubusercontent.com/54709490/147850469-72e17272-f7ff-4cdf-b68a-4301e54f64f3.png" width="40" height="40" /> <img src= "https://user-images.githubusercontent.com/54709490/147850591-6eeecede-9203-4e2e-ab05-217de9b36044.png" width="30" height="30" /> <img src= "https://user-images.githubusercontent.com/54709490/147850593-fa7cf1a3-1777-4135-854e-7caf3c59f886.png" width="45" height="45" /> 
 
 ![Divyanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyanshijainDj&theme=dark&show_icons=true)
 
