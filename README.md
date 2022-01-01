@@ -6,9 +6,9 @@ I am a final year computer science candidate at [College of technology and Engin
 
 **I am open to**:
 
-- any collobration work,
-- machine learning projects,
-- Database management 
+- :+1: any collobration work,
+- :scroll: machine learning projects,
+- :floppy_disk: Database management 
 
 ![Divyanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyanshijainDj&theme=dark&show_icons=true)
 
