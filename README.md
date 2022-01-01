@@ -19,7 +19,7 @@ I am a final year computer science candidate at [College of technology and Engin
 
 > To get in touch, please reach out via:  [Email](divyanshijain174@gmail.com) [LinkedIn](https://www.linkedin.com/in/divyanshijain/) [Twitter](https://twitter.com/DivyanshiJain_) 
 
-**My Github Stats**:
+**My Github Stats** :chart_with_upwards_trend:
 
 
 ![Divyanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyanshijainDj&theme=dark&show_icons=true)
