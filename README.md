@@ -17,9 +17,10 @@ I am a final year computer science candidate at [College of technology and Engin
 
 ## Connect with me:
 
-> To get in touch, please reach out via:[https://user-images.githubusercontent.com/54709490/147850442-dab7350d-8af3-48ac-b89b-642903f3d90f.png"](divyanshijain174@gmail.com) 
-
-> [LinkedIn](https://www.linkedin.com/in/divyanshijain/) [Twitter](https://twitter.com/DivyanshiJain_) 
+> To get in touch, please reach out via:
+> [Gmail](divyanshijain174@gmail.com) 
+> [LinkedIn](https://www.linkedin.com/in/divyanshijain/) 
+> [Twitter](https://twitter.com/DivyanshiJain_) 
 
 **My Github Stats** :chart_with_upwards_trend:
 
