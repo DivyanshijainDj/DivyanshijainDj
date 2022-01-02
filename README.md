@@ -22,6 +22,12 @@ I am a final year computer science candidate at [College of technology and Engin
 > [LinkedIn](https://www.linkedin.com/in/divyanshijain/) 
 > [Twitter](https://twitter.com/DivyanshiJain_) 
 
+
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/divyanshijain/"
+    
 **My Github Stats** :chart_with_upwards_trend:
 
 
