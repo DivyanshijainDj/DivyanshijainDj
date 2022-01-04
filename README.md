@@ -7,7 +7,7 @@ I am a final year computer science candidate at [College of technology and Engin
 **I am open to**:
 
 - :+1: any collobration work,
-- :scroll: machine learning projects,
+- :scroll: Development projects,
 - :floppy_disk: Database management 
 
 **Language and Tools**:
