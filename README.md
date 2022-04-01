@@ -5,7 +5,7 @@ Hi I'm **Divyanshi jain** <img src="https://camo.githubusercontent.com/e8e7b06ec
 I am a final year computer science candidate at [College of technology and Engineering](https://www.ctae.ac.in/). A problem solver, tech enthusiast & Coder exploring different fields of Computer Science.
 Happy to meet new people and always excited for challenging opportunities!!
 
-**I am open to**:
+***I am open to***:
 
 - :+1: any collobration work,
 - :scroll: Development projects,
