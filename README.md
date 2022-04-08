@@ -17,7 +17,7 @@ Happy to meet new people and always excited for challenging opportunities!!
 
 **Softwares:**
 
-<img src= "https://user-images.githubusercontent.com/54709490/162485403-194a7dda-b23d-4d1b-8baa-6a9fbb033460.png" width="60" height="50" />
+<img src= "https://user-images.githubusercontent.com/54709490/162485403-194a7dda-b23d-4d1b-8baa-6a9fbb033460.png" width="70" height="50" />
 
 ## Connect with me:
 
