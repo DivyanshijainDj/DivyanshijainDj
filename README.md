@@ -28,4 +28,6 @@
 <p><a href="https://www.buymeacoffee.com/divyanshi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="divyanshi" /></a></p><br><br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshijaindj&show_icons=true&locale=en" alt="divyanshijaindj" /></p>
+
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=divyanshijaindj&show_icons=true&locale=en" alt="divyanshijaindj" /></p>
