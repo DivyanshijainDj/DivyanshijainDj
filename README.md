@@ -31,6 +31,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/divyanshi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="divyanshi" /></a></p><br><br><b>
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://docs.microsoft.com/en-us/azure/machine-learning/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/54709490/167131829-53774bf6-8846-489a-aed3-52f724a43694.png" alt="android" width="40" height="40"/>
 
 
