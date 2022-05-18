@@ -20,8 +20,7 @@
 <a href="https://linkedin.com/in/divyanshijain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyanshijain" height="30" width="40" /></a>
 </p>
 
-
-<p>&nbsp;<img align="center" src="(https://github-readme-stats.vercel.app/api?username=divyanshijaindj&theme=dark&show_icons=true)" alt="divyanshijaindj" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyanshijainDj&theme=dark&show_icons=true)
 
 
 <h3 align="left">Languages and Tools:</h3>
