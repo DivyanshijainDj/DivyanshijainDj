@@ -21,7 +21,7 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="(https://github-readme-stats.vercel.app/api?username=divyanshijaindj" alt="divyanshijaindj" /></p>
+<p>&nbsp;<img align="center" src="(https://github-readme-stats.vercel.app/api?username=divyanshijaindj&theme=dark&show_icons=true)" alt="divyanshijaindj" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
