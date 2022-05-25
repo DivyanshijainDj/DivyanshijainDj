@@ -30,5 +30,8 @@
 <p><a href="https://www.buymeacoffee.com/divyanshi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="divyanshi" /></a></p><br><b>
 
 
+*My Github Stats* :chart_with_upwards_trend:
 
+
+![Princee's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyanshijainDj&theme=dark&show_icons=true)
 
