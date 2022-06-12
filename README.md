@@ -10,7 +10,8 @@
 
 - 🌱 I’m currently learning **Data Structures and algorithms**
 
-- 👯 I’m looking to collaborate on [Bike rental Website](https://github.com/DivyanshijainDj/bike-rental-website)
+- 👯 I’m looking to collaborate on [Bike rental Website](https://github.com/DivyanshijainDj/Bike-rental-Webiste) 
+
 
 - 📫 How to reach me **divyanshijain174@gmail.com**
 
